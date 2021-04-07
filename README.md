@@ -25,7 +25,7 @@ The session will help developers comprehend the workflow associated with develop
 - Nikhil Saini
 - Vineet Bhatt
 - Aakash Banerjee
-- 
+
 ### Time
 Apr 6, 2021 02:00 PM in India
 
