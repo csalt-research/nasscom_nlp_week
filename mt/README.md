@@ -17,8 +17,7 @@ MT Notebook for NASSCOM Workshop on Speech To Speech Machine Translation
 	 -  Click on `Save`
  - Setup Complete !!
 
-## Download Link: (Available till 30 April 2021)
-
+## Directory Structure and Download Link: (Available till 30 April 2021)
 
     .
     ├── MT  
