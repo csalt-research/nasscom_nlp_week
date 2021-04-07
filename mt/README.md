@@ -21,13 +21,14 @@ MT Notebook for NASSCOM Workshop on Speech To Speech Machine Translation
 
     .
     ├── MT  
-        ├── En-Mr
-        |   ├── Model Checkpoint: model.pt
-        |   └── BPE Codes: mr-bpe-codes.en, bpe-codes.mr
-	|
-	├── En-Hi
-	|   ├── Model Checkpoint: hi-model.pt
-        |   └── BPE Codes: hi-bpe-codes.en, bpe-codes.hi
-    	└── ...
+    |   ├── En-Mr
+    |   |   ├── Model Checkpoint: model.pt
+    |   |   └── BPE Codes: mr-bpe-codes.en, bpe-codes.mr
+    |	|
+    |	├── En-Hi
+    |	|   ├── Model Checkpoint: hi-model.pt
+    |   |   └── BPE Codes: hi-bpe-codes.en, bpe-codes.hi
+    |	└── ...
+    └── ...
 > `Link` https://drive.google.com/drive/folders/1Mpuo9Dhl33YvdQTmQUxCRZXrETcWBYYg 
     
