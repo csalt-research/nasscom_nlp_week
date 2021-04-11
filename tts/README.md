@@ -17,4 +17,16 @@ TTS Notebook for NASSCOM Workshop on Speech To Speech Machine Translation
 	 -  Click on `Save`
  - Setup Complete !!
 
+ ## Directory Structure and Download Link: (Available till 30 April 2021)
  
+    .
+    ├── ...
+    ├── tacotron2                   
+    ├── waveglow_256channels_universal_v5.pt
+    ├── checkpoint_4440.zip                 
+    ├── checkpoint_2600.zip                    
+    └── ...
+    
+ > `Link` https://drive.google.com/drive/folders/1etg6jAir9TPwX0xisTPghZoCKwIZXjxz?usp=sharing
+    
+    
