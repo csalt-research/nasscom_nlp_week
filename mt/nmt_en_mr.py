@@ -212,7 +212,6 @@ Here, we show training on a small sample of data for 20 steps over a trained mod
   -heads 8 -encoder_type transformer -decoder_type transformer -position_encoding \
   -train_steps 200020 -max_generator_batches 2 \
   -dropout 0.1 -batch_size 4 -batch_type tokens \
-  -learning_rate 2 \
   -valid_steps 10000 -save_checkpoint_steps 20000 -report_every 1 -world_size 1 -gpu_ranks 0
 
 """### Translation
